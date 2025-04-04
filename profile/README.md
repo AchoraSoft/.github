@@ -23,20 +23,6 @@
 | **Forks** | ![kissc.at Forks](https://img.shields.io/github/forks/AchoraSoft/kissc.at?style=flat-square) | ![kisscli_tool Forks](https://img.shields.io/github/forks/AchoraSoft/kisscli_tool?style=flat-square) |
 | **Issues** | ![kissc.at Issues](https://img.shields.io/github/issues/AchoraSoft/kissc.at?style=flat-square) | ![kisscli_tool Issues](https://img.shields.io/github/issues/AchoraSoft/kisscli_tool?style=flat-square) |
 
-## 🛠️ Quick Start
-
-```bash
-# Install the microframework
-npm install kissc.at
-
-# Install the CLI tool
-npm install -g kisscli_tool
-```
-
-## 🌈 Contribution Graph
-
-[![AchoraSoft's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AchoraSoft&theme=github-compact)](https://github.com/AchoraSoft)
-
 ## 📬 Get In Touch
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
