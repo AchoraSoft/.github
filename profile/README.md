@@ -1,6 +1,3 @@
-Here's an awesome GitHub Profile README template for your organization that showcases both projects professionally with badges, stats, and clean sections:
-
-```markdown
 # 🚀 AchoraSoft - Minimalist Web Solutions
 
 > Crafting lightweight, efficient tools for modern development
