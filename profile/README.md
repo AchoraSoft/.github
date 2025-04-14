@@ -17,7 +17,7 @@
 
 ## 📊 Project Stats
 
-| Metric | kissc.at | kisscli_tool |
+| Metric | tofo | tofocli_tool |
 |--------|----------|--------------|
 | **Stars** | ![tofo Stars](https://img.shields.io/github/stars/AchoraSoft/tofo?style=flat-square) | ![tofocli_tool Stars](https://img.shields.io/github/stars/AchoraSoft/tofocli_tool?style=flat-square) |
 | **Forks** | ![tofo Forks](https://img.shields.io/github/forks/AchoraSoft/tofo?style=flat-square) | ![tofocli_tool Forks](https://img.shields.io/github/forks/AchoraSoft/tofocli_tool?style=flat-square) |
